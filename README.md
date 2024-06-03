@@ -1,5 +1,6 @@
-## Hi there, I'm James!
-I'm a Year 1 student currently pursuing a Diploma in Engineering Science. 
+## Hi there, I'm James!  
+I'm a Year 1 student currently pursuing a Diploma in Engineering Science.
+
 ---
 ### Projects 🛠️
 [Grass App](https://github.com/lohhaoyuan/grass): Grass tracks your plants for you. That's it.
