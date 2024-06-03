@@ -5,7 +5,7 @@ I'm a Year 1 student currently pursuing a Diploma in Engineering Science.
 ### Projects 🛠️
 [Grass App](https://github.com/lohhaoyuan/grass): Grass tracks your plants for you. That's it.
 
-## Contacting Me 📧
+### Contacting Me 📧
 You can reach me at my school email @ s10267719@connect.np.edu.sg
 
 Thanks for checking out my profile!
