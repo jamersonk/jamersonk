@@ -1,5 +1,5 @@
 ## Hi there, I'm James!  
-I'm a Year 1 student currently pursuing a Diploma in Engineering Science. Thanks for checking out my profile!
+I'm a Year 1 student based in Singapore.
 
 ---
 ## Projects 🛠️
