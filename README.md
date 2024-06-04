@@ -2,11 +2,8 @@
 I'm a Year 1 student currently pursuing a Diploma in Engineering Science. Thanks for checking out my profile!
 
 ---
-### Projects 🛠️
+## Projects 🛠️
 [Grass App](https://github.com/lohhaoyuan/grass): Grass tracks your plants for you. That's it.
-
-### Contacting Me 📧
-You can reach me at my school email @ s10267719@connect.np.edu.sg
 
 <!--
 **jamersonk/jamersonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
