@@ -4,6 +4,7 @@ I'm a student based in Singapore.
 ---
 ## Projects 🛠️
 [Grass App](https://github.com/lohhaoyuan/grass): Grass tracks your plants for you. That's it.
+[Student Record System](https://github.com/jamersonk/38prog_project): School project for 38PROG Programming.
 
 <!--
 **jamersonk/jamersonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
