@@ -1,6 +1,6 @@
-## Hi there, I'm James!  <br>
-
+## Hi there, I'm James! 
 I'm an Engineering Student based in Singapore.
+
 ---
 ## Projects 🛠️
 [Grass App](https://github.com/lohhaoyuan/grass): Grass tracks your plants for you. That's it. <br>
