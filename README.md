@@ -1,5 +1,5 @@
 ## Hi there, I'm James! 
-I'm an Engineering Student based in Singapore.
+I'm an engineering student based in Singapore.
 
 ---
 ## Projects 🛠️
